@@ -6,6 +6,8 @@ https://script.google.com/macros/s/AKfycbwY0ZK_uhQBdQ9PM547M-5CcXQUX_CuIkj7Rza-3
 * Django
 * Pycharm
 * Google Sheet
+* Google Form
+* G
 * Line Notify
 * Heroku
 
