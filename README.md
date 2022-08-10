@@ -1,7 +1,8 @@
 # NTTU_Announce
 爬蟲學校公告網站並通知
 <br>每二十分鐘爬取一次並覆蓋<br>
-https://script.google.com/macros/s/AKfycbwY0ZK_uhQBdQ9PM547M-5CcXQUX_CuIkj7Rza-3XKXtHWFibslVMEy10uUlsBqd8Kk/exec?Title=Register
+https://lihi1.com/sP9Ke
+
 ## 建置
 * Django
 * Pycharm
