@@ -1,5 +1,5 @@
 # NTTU_Announce
-爬蟲學校公告網站並通知
+爬蟲學校公告並通知
 <br>每小時爬取五則並覆蓋<br>
 https://lihi1.com/sP9Ke
 
