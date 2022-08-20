@@ -1,6 +1,7 @@
 # NTTU_Announce
 爬蟲學校公告並通知
-<br>每小時爬取五則並覆蓋<br>
+<br>每小時爬取六種公告五則並覆蓋<br>
+每天八點有每日二十單更新<br>
 https://lihi1.com/sP9Ke
 
 ## 建置
