@@ -5,7 +5,7 @@
 **請使用手機掃描**
 
 
-<img width="ˋ450" height="450" src="https://i.imgur.com/7i4pU1e.png"/>
+<img width="400" height="400" src="https://i.imgur.com/7i4pU1e.png"/>
 
 https://lihi1.com/sP9Ke
 
