@@ -2,10 +2,12 @@
 爬蟲學校公告並通知
 <br>每小時爬取六種公告五則並覆蓋<br>
 每天八點有每日二十單更新<br>
+**請使用手機掃描**
+
+
+<img width="ˋ450" height="450" src="https://i.imgur.com/7i4pU1e.png"/>
+
 https://lihi1.com/sP9Ke
-
-<img width="500" height="600" src="https://i.imgur.com/7i4pU1e.png"/>
-
 
 
 
