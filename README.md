@@ -4,6 +4,11 @@
 每天八點有每日二十單更新<br>
 https://lihi1.com/sP9Ke
 
+<img width="500" height="600" src="https://i.imgur.com/7i4pU1e.png"/>
+
+
+
+
 ## 建置
 * Django
 * Pycharm
