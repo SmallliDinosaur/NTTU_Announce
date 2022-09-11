@@ -4,7 +4,7 @@
 每天八點有每日二十單更新<br>
 優點：可直接在搜尋欄搜尋過去的公告<br>
 請將網頁以 Chrome 開啟<br>
-**請使用手機掃描**
+**若開啟失敗，請使用手機掃描**
 
 
 <img width="400" height="400" src="https://i.imgur.com/7i4pU1e.png"/>
